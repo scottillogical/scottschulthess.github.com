@@ -9,13 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Socratic Software
+tagline: by Scott Schulthess
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Scott Schulthess
+  email : scottschulthess+blog@gmail.com
+  github : scottschulthess
+  twitter : scottschulthess
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -81,7 +81,8 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
+    #provider : disqus
     disqus :
       short_name : jekyllbootstrap
     livefyre :
@@ -101,7 +102,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+      tracking_id : 'UA-42154151-1'
     getclicky :
       site_id : 
     mixpanel :
