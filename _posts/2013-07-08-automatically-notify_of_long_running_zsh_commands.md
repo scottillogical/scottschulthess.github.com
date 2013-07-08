@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notify of long running zsh commands"
+title: "Automatic notifications of long running shell commands"
 description: ""
 category: 
 tags: []
