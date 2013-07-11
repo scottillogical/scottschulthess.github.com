@@ -3,12 +3,12 @@ layout: page
 title: 
 tagline: 
 ---
-
-<ul class="posts">
+<div class="blog-index">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-
-
+    {% assign content = post.content %}
+    {% include post_detail.html %}
+    <hr />
+  {% endfor%}
+</div>
+~
+~
