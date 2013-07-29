@@ -9,7 +9,7 @@ tags: []
 
 ### Programming books are boring.
 
-There's no need to be around the bush, eh, fellow programmers?  Programming books are boring to read, full of a love of irrelevant information.  They are also very challenging to the mind to read, and require a lot of focus. 
+There's no need to beat around the bush, eh, fellow programmers?  Programming books are boring to read, full of a love of irrelevant information.  They are also very challenging to the mind to read, and require a lot of focus. 
 
 One of the biggest difference between good and bad programmers is that good programmers manage to pull this off.  They are constantly adding tools to their tool belt.   A good programmer has read more books than you in the past 12 months, and has acquired more unread books than you have the in the last 3 years.  
 
