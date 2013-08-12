@@ -6,7 +6,7 @@ description: ""
 <img src="http://gravatar.com/avatar/fdee1445100410c603ab03033564e55c.png?s=190" /> 
 <br />
 <br />
-**Scott Schulthess** is a Ruby hacker currently employed by Kaplan.
+I (Scott Schulthess) am a Ruby hacker currently employed by Kaplan.  I've been developing web apps professionally since 2005, and programming since 2000.  I live in Chelmsford, Massachusetts.
 
-You can find him on twitter [@scottschulthess](http://twitter.com/scottschulthess)
+You can find me on twitter [@scottschulthess](http://twitter.com/scottschulthess) and connect with me on [linkedin](www.linkedin.com/in/scottschulthess).
 {% include JB/setup %}
