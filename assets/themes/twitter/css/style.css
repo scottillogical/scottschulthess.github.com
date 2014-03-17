@@ -7,6 +7,21 @@ h1 {
 }
 
 
+.brand {
+  float:left;
+  margin-right:5px;
+}
+.header *  {
+  color:gray;
+}
+
+.tagline {
+  margin-top:28px;
+  display:block;
+}
+
+
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
